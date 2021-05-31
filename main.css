@@ -52,9 +52,20 @@
    border-radius: 4px;
    font-size: 14px;
    cursor: pointer;
+   transition: 1000ms;
  }
  
+ .btn-HF:hover{
+    background: #934423;
+    color: #fff;
+    border: 1px solid #934423;
+  }
  
+  .btn-HF:focus{
+    background: #934423;
+    color: #fff;
+    border: 1px solid #934423;
+}
  
  /* Alert */
  
@@ -98,6 +109,8 @@
    border-radius: 4px;
    font-size: 14px;
    cursor: pointer;
+   transition: 1000ms;
+
  }
  
  .btn-two #btn-white{
@@ -106,6 +119,18 @@
    border: 1px solid #fff;
  }
  
+ .btn-two #btn-white:hover{
+    background: #934423;
+    color: #c05326;
+    border: 1px solid #934423;
+  }
+
+  .btn-two #btn-white:focus{
+    background: #934423;
+    color: #c05326;
+    border: 1px solid #934423;
+  }
+
  /* Headings */
  
  .heading-underline {
