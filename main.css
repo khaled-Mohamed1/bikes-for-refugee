@@ -47,7 +47,7 @@
    background: #c05326;
    margin-top: 15px;
    color: #fff;
-   border: 1px solid #c05326;
+   border: none;
    padding: 6px 8px;
    border-radius: 4px;
    font-size: 14px;
@@ -58,13 +58,11 @@
  .btn-HF:hover{
     background: #934423;
     color: #fff;
-    border: 1px solid #934423;
   }
  
   .btn-HF:focus{
     background: #934423;
     color: #fff;
-    border: 1px solid #934423;
 }
  
  /* Alert */
@@ -104,7 +102,7 @@
    background: #c05326;
    margin-top: 15px;
    color: #fff;
-   border: 1px solid #c05326;
+   border: none;
    padding: 8px 8px;
    border-radius: 4px;
    font-size: 14px;
@@ -116,19 +114,16 @@
  .btn-two #btn-white{
    background: #fff;
    color: #c05326;
-   border: 1px solid #fff;
  }
  
  .btn-two #btn-white:hover{
     background: #934423;
     color: #c05326;
-    border: 1px solid #934423;
   }
 
   .btn-two #btn-white:focus{
     background: #934423;
     color: #c05326;
-    border: 1px solid #934423;
   }
 
  /* Headings */
